@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=307
+
+Copy it to your $HOME/.vim/colors and do a :colorscheme xemacs from within vim. I've tried to mimic xemacs
+colors as best as I could, but suggestions would be very much welcome.

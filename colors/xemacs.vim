@@ -27,6 +27,7 @@ hi NonText			guifg=black guibg=#cdcecd gui=none
 hi Question			guifg=black
 hi Search				guibg=#aceeee
 hi SpecialKey		guifg=navyblue
+hi Special		guifg=navyblue
 hi StatusLine		guibg=#b7b7b7 guifg=black gui=none
 hi StatusLineNC	guibg=#a6b7b7 guifg=black gui=none
 hi Title				guifg=bisque3
@@ -39,7 +40,6 @@ hi Identifier		guibg=#cdcecd guifg=black
 hi Statement		guifg=royalblue4
 hi PreProc			guifg=#0000cd
 hi Type					guifg=#4a81b4 gui=NONE
-hi Special			guifg=#008900
 hi Ignore				guifg=grey29
 hi Todo					guibg=gold guifg=black
 hi WildMenu			guibg=#b7b7b7 guibg=grey91

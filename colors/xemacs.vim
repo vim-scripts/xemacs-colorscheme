@@ -18,9 +18,9 @@ let g:colors_name="xemacs"
 
 hi Normal				guibg=#cdcecd guifg=black
 hi Cursor				guibg=red guifg=grey gui=bold
-hi VertSplit		guifg=white guibg=navyblue gui=none
-hi Folded				guibg=darkblue guifg=white
-hi FoldColumn		guibg=lightgray guifg=navyblue
+hi VertSplit		guibg=grey60 guifg=black gui=none
+hi Folded				guibg=royalblue3 guifg=white
+hi FoldColumn		guibg=royalblue4 guifg=white
 hi ModeMsg			guifg=#cdcecd guibg=black
 hi MoreMsg			guifg=#cdcecd guibg=black
 hi NonText			guifg=black guibg=#cdcecd gui=none
@@ -39,7 +39,8 @@ hi Identifier		guibg=#cdcecd guifg=black
 hi Statement		guifg=royalblue4
 hi PreProc			guifg=#0000cd
 hi Type					guifg=#4a81b4 gui=NONE
-hi Special			guifg=navajowhite
+hi Special			guifg=#008900
 hi Ignore				guifg=grey29
 hi Todo					guibg=gold guifg=black
 hi WildMenu			guibg=#b7b7b7 guibg=grey91
+hi Directory		guibg=#cdcecd guifg=navyblue
